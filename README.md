@@ -13,6 +13,4 @@ The datasets used for experiments in this work, including maritime, terrestrial,
 - **Terrestrial dataset**: [https://www.educoder.net/dataset/336/detail](https://www.educoder.net/dataset/336/detail)
 - **Aerial dataset**: [https://www.educoder.net/dataset/342/detail](https://www.educoder.net/dataset/342/detail)
 
-For any download issues, please contact the authors, and we will be happy to assist you.
-
 The most core components of the code are currently open-sourced. A fully functional implementation will be provided upon acceptance of the paper.
