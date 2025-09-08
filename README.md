@@ -28,7 +28,7 @@
 ## Datasets:
 The datasets used for experiments in this work, including maritime, terrestrial, and aerial datasets, can be downloaded from the following links:
 - **Maritime dataset**: [https://www.educoder.net/dataset/335/detail](https://www.educoder.net/dataset/335/detail)
-- **Terrestrial dataset**: [https://www.educoder.net/dataset/336/detail](https://www.educoder.net/dataset/336/detail)
 - **Aerial dataset**: [https://www.educoder.net/dataset/342/detail](https://www.educoder.net/dataset/342/detail)
+- **Terrestrial dataset**: [https://www.educoder.net/dataset/336/detail](https://www.educoder.net/dataset/336/detail)
 
 The most core components of the code are currently open-sourced. A fully functional implementation will be provided upon acceptance of the paper.
