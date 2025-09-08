@@ -10,7 +10,7 @@
 
 - **FAST-INS Algorithm:**  
   - Decouples INS output rate from IMU sampling frequency  
-  - Reduces computational cost by ~42% compared to classical Savage algorithms  
+  - Reduces computational cost by 42% compared to classical Savage algorithms  
   - Maintains high-dynamics navigation accuracy  
 
 - **Discrete Integration Framework:**  
