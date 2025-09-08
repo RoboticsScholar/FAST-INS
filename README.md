@@ -1,4 +1,4 @@
-# FAST-INS: Fast Inertial Navigation Computation Based on Precise Preintegration
+# Computationally Efficient Integrated Navigation Using FAST-INS and STEKF
 
 **FAST-INS** is a high-performance inertial navigation system (INS) designed to significantly enhance the computational efficiency of traditional navigation algorithms by leveraging precise preintegration techniques. The method focuses on reducing computational complexity while maintaining high accuracy, making it suitable for real-time applications on resource-constrained embedded systems.
 
